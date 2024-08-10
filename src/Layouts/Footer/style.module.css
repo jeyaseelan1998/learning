@@ -1,0 +1,8 @@
+.footerWrapper {
+    padding: 25px;
+    margin-top: auto;
+
+    background: linear-gradient(to right, #222831, #173B45);
+    color: #F5F7F8;
+    font-family: 'Roboto', 'Sans serif';
+}
